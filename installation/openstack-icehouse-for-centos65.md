@@ -1,9 +1,5 @@
 #OpenStack 手动安装手册（Icehouse）
 
-声明：本博客欢迎转发，但请保留原作者信息!      
-作者：[罗勇] 云计算工程师、敏捷开发实践者    
-博客：[http://yongluo2013.github.io/](http://yongluo2013.github.io/)    
-微博：[http://weibo.com/u/1704250760/](http://weibo.com/u/1704250760/)  
 
 ##部署架构
 
